@@ -23,6 +23,7 @@
         }
         return result;
     }
+
     static void Main(string[] args)
     {
         Console.WriteLine("J'additionne 2 nombres : " + Add(3, 4));
